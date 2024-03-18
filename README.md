@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria!)</h1>
-<h3 align="center">A passionate ful-stack developer from Miami</h3>
+<h3 align="center">A passionate full-stack developer from Miami</h3>
 
 - 📫 How to reach me **7542600354g@gmail.com**
 
